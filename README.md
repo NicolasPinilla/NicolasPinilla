@@ -14,3 +14,17 @@
   <p>👨‍💻 ¡Bienvenido/a a mi perfil de GitHub! Soy un estudiante de ingenieria de sistemas.</p>
 </div>
 
+## 💻 Lenguajes de programación y herramientas que manejo
+
+  <br>
+
+  <table>
+    <thead>
+      <tr >
+        <th align="center">Desarrollo web 🌐</th>
+        <th align="center">Desarrollo de software y scripting 💻</th>
+        <th align="center">Bases de datos 🗃️</th>
+        <th align="center">Herramientas de diseño 🎨</th>
+        <th align="center">Placas de desarrollo 🛠️</th>
+      </tr>
+    </thead>
