@@ -52,3 +52,12 @@
       </tr>
     </tbody>
   </table>
+
+  ## 📚 Educación</strong></summary>
+
+  <br>
+
+  <div align="center">
+    <a href="#"><img src="https://img.shields.io/badge/Fundacion%20Universitaria%20del%20Area%20Andina-Ingeniería%20de%20Sistemas-yellow?style=for-the-badge" alt="Fundacion Universitaria del Area Andina - Ingeniería de Sistemas"></a>
+	<br>
+  </div>
