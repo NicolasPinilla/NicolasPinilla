@@ -53,7 +53,7 @@
     </tbody>
   </table>
 
-  ## 📚 Educación</strong></summary>
+  ## 📚 Educación
 
   <br>
 
@@ -62,7 +62,7 @@
 	<br>
   </div>
 
-  ## 💼 Experiencia profesional</strong></summary>
+  ## 💼 Experiencia profesional
 
   <br>
 
@@ -72,7 +72,7 @@
   </div>
   <br>
 
-  ## 🎯 Intereses</strong></summary>
+  ## 🎯 Intereses
 
   <br>
 
@@ -83,11 +83,33 @@
   </div>
   <br>
 
-  ## 📈 Estadísticas</strong></summary>
+  ## 📈 Estadísticas
 
   <br>
 
   <div align="center">
 	<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=NicolasPinilla&show_icons=true&theme=radical" alt="Estadísticas de Jhonatan Pineda"></a>
 
+  </div>
 
+  ## 📫 Contacto
+
+<br>
+
+<div align="center">
+  
+  [![Correo](https://img.shields.io/badge/Correo-andreenicolasixp%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:andreenicolasixp@gmail.com)
+
+</div>
+
+---
+<div align="center">
+
+"En un mundo en constante evolución, la educación y la tecnología se entrelazan como el caos y el orden, guiándonos hacia un futuro donde las posibilidades son infinitas."
+
+</div>
+---
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Joke">
+</div>
