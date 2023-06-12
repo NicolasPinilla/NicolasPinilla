@@ -11,7 +11,7 @@
 <br>
 
 <div align="center">
-  <p>👨‍💻 ¡Bienvenido/a a mi perfil de GitHub! Soy un estudiante de ingenieria de sistemas.</p>
+  <p>👨‍💻 ¡Bienvenido/a a mi perfil de GitHub! Soy un estudiante de ingeniería de sistemas.</p>
 </div>
 
 ## 💻 Lenguajes de programación y herramientas que manejo
@@ -61,3 +61,13 @@
     <a href="#"><img src="https://img.shields.io/badge/Fundacion%20Universitaria%20del%20Area%20Andina-Ingeniería%20de%20Sistemas-yellow?style=for-the-badge" alt="Fundacion Universitaria del Area Andina - Ingeniería de Sistemas"></a>
 	<br>
   </div>
+
+  ## 💼 Experiencia profesional</strong></summary>
+
+  <br>
+
+  <div align="center">
+    <a href="#"><img src="https://img.shields.io/badge/Robotica%20Colombia%20SAS-Asesor%20Técnico -green?style=for-the-badge" alt="Robotica Colombia SAS - Asesor Técnico"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Grupo%20Tknova-Asesor%20Técnico -green?style=for-the-badge" alt="Grupo Tknova SAS - Asesor Técnico "></a>
+  </div>
+  <br>
