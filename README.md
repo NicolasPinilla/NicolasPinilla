@@ -28,3 +28,27 @@
         <th align="center">Placas de desarrollo 🛠️</th>
       </tr>
     </thead>
+	<tbody>
+      <tr>
+        <td align="center"><img src="https://cdn.discordapp.com/attachments/1117726087196180491/1117726221816569877/php.png" alt="PHP" width="50" height="50"></td>
+        <td align="center"><img src="https://cdn.discordapp.com/attachments/1117726087196180491/1117726231471849472/Python.png" alt="Python" width="50" height="50"></td>
+        <td align="center"><img src="https://cdn.discordapp.com/attachments/1117726087196180491/1117726223964057680/MySQL.png" alt="MySQL" width="50" height="50"></td>
+        <td align="center"><img src="https://cdn.discordapp.com/attachments/1117726087196180491/1117726232042283058/xd.png" alt="Adobe XD" width="50" height="50"></td>
+        <td align="center"><img src="https://media.discordapp.net/attachments/1117726087196180491/1117726222089191465/Arduino.png" alt="Arduino" width="50" height="50"></td>
+      </tr>
+      <tr>
+        <td align="center"><img src="https://cdn.discordapp.com/attachments/1117726087196180491/1117726222877720698/CSS.png" alt="CSS" width="50" height="50"></td>
+        <td align="center"><img src="https://cdn.discordapp.com/attachments/1117726087196180491/1117726223720775730/Javascript.png" alt="JavaScript" width="50" height="50"></td>
+        <td></td>
+        <td align="center"><img src="https://cdn.discordapp.com/attachments/1117726087196180491/1117726223448154112/Illustrator.png" alt="Illustrator" width="50" height="50"></td>
+        <td align="center"><img src="https://cdn.discordapp.com/attachments/1117726087196180491/1117726231765471322/Raspberry.png" alt="Raspberry Pi" width="50" height="50"></td>
+      </tr>
+      <tr>
+        <td align="center"><img src="https://cdn.discordapp.com/attachments/1117726087196180491/1117726223175528540/HTML.png" alt="HTML" width="50" height="50"></td>
+        <td align="center"><img src="https://cdn.discordapp.com/attachments/1117726087196180491/1117726222609293363/C.png" alt="C" width="50" height="50"></td>
+        <td></td>
+        <td align="center"><img src="https://cdn.discordapp.com/attachments/1117726087196180491/1117726224194740244/Photoshop.png" alt="Photoshop" width="50" height="50"></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
