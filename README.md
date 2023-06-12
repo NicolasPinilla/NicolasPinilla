@@ -108,6 +108,7 @@
 "En un mundo en constante evolución, la educación y la tecnología se entrelazan como el caos y el orden, guiándonos hacia un futuro donde las posibilidades son infinitas."
 
 </div>
+
 ---
 
 <div align="center">
