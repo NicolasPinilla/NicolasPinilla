@@ -71,3 +71,23 @@
     <a href="#"><img src="https://img.shields.io/badge/Grupo%20Tknova-Asesor%20Técnico -green?style=for-the-badge" alt="Grupo Tknova SAS - Asesor Técnico "></a>
   </div>
   <br>
+
+  ## 🎯 Intereses</strong></summary>
+
+  <br>
+
+  <div align="center">
+    <a href="#"><img src="https://img.shields.io/badge/🤖%20Robótica-blueviolet?style=for-the-badge" alt="Interés en Robótica"></a>
+    <a href="#"><img src="https://img.shields.io/badge/📚%20Educación%20en%20tecnología-blueviolet?style=for-the-badge" alt="Interés en Educación en tecnología"></a>
+    <a href="#"><img src="https://img.shields.io/badge/🎮%20Desarrollo%20de%20videojuegos-blueviolet?style=for-the-badge" alt="Interés en Desarrollo de videojuegos"></a>
+  </div>
+  <br>
+
+  ## 📈 Estadísticas</strong></summary>
+
+  <br>
+
+  <div align="center">
+	<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=NicolasPinilla&show_icons=true&theme=radical" alt="Estadísticas de Jhonatan Pineda"></a>
+
+
