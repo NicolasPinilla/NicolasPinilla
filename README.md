@@ -30,24 +30,24 @@
     </thead>
 	<tbody>
       <tr>
-        <td align="center"><img src="https://cdn.discordapp.com/attachments/1117726087196180491/1117726221816569877/php.png" alt="PHP" width="50" height="50"></td>
-        <td align="center"><img src="https://cdn.discordapp.com/attachments/1117726087196180491/1117726231471849472/Python.png" alt="Python" width="50" height="50"></td>
-        <td align="center"><img src="https://cdn.discordapp.com/attachments/1117726087196180491/1117726223964057680/MySQL.png" alt="MySQL" width="50" height="50"></td>
-        <td align="center"><img src="https://cdn.discordapp.com/attachments/1117726087196180491/1117726232042283058/xd.png" alt="Adobe XD" width="50" height="50"></td>
-        <td align="center"><img src="https://media.discordapp.net/attachments/1117726087196180491/1117726222089191465/Arduino.png" alt="Arduino" width="50" height="50"></td>
+        <td align="center"><img src="https://cdn.discordapp.com/attachments/1117726087196180491/1117726221816569877/php.png?ex=66013029&is=65eebb29&hm=7a28c841f75781d58bd4346600532325601331e17f8d752c0f99fe78a976d98b&" alt="PHP" width="50" height="50"></td>
+        <td align="center"><img src="https://cdn.discordapp.com/attachments/1117726087196180491/1117726231471849472/Python.png?ex=6601302b&is=65eebb2b&hm=c108fdb9130e906426c042704433275306a15cfcf53d5e7b628f3047a2f58995&" alt="Python" width="50" height="50"></td>
+        <td align="center"><img src="https://cdn.discordapp.com/attachments/1117726087196180491/1117726223964057680/MySQL.png?ex=6601302a&is=65eebb2a&hm=422ef6686c124f90f111d61c32590f816c0ed49d3376e47e3816c614d1937ff5&" alt="MySQL" width="50" height="50"></td>
+        <td align="center"><img src="https://cdn.discordapp.com/attachments/1117726087196180491/1117726232042283058/xd.png?ex=6601302c&is=65eebb2c&hm=21ba3f6a24f71c2a320a801514f2ae4ed59524884c7538830489801a7a4ad5f6&" alt="Adobe XD" width="50" height="50"></td>
+        <td align="center"><img src="https://cdn.discordapp.com/attachments/1117726087196180491/1117726222089191465/Arduino.png?ex=66013029&is=65eebb29&hm=5c1dbdaaf2fd0b0d82b040e935222154310720dd553c17398901e12e985b28e5&" alt="Arduino" width="50" height="50"></td>
       </tr>
       <tr>
-        <td align="center"><img src="https://cdn.discordapp.com/attachments/1117726087196180491/1117726222877720698/CSS.png" alt="CSS" width="50" height="50"></td>
-        <td align="center"><img src="https://cdn.discordapp.com/attachments/1117726087196180491/1117726223720775730/Javascript.png" alt="JavaScript" width="50" height="50"></td>
+        <td align="center"><img src="https://cdn.discordapp.com/attachments/1117726087196180491/1117726222877720698/CSS.png?ex=66013029&is=65eebb29&hm=ab24a437e041da1f25f79a7e64801abc01e78f85c5821cb925041143de6754a7&" alt="CSS" width="50" height="50"></td>
+        <td align="center"><img src="https://cdn.discordapp.com/attachments/1117726087196180491/1117726223720775730/Javascript.png?ex=6601302a&is=65eebb2a&hm=a8dfc94c5d969c8c414cfc7cd2707d41ec75d4c0f378e4fcf7876b90c119ad16&" alt="JavaScript" width="50" height="50"></td>
         <td></td>
-        <td align="center"><img src="https://cdn.discordapp.com/attachments/1117726087196180491/1117726223448154112/Illustrator.png" alt="Illustrator" width="50" height="50"></td>
-        <td align="center"><img src="https://cdn.discordapp.com/attachments/1117726087196180491/1117726231765471322/Raspberry.png" alt="Raspberry Pi" width="50" height="50"></td>
+        <td align="center"><img src="https://cdn.discordapp.com/attachments/1117726087196180491/1117726223448154112/Illustrator.png?ex=6601302a&is=65eebb2a&hm=737cf45ce19d459e30bfda78a9d2f40c7eb7278d21483574206a712f6d49d2c2&" alt="Illustrator" width="50" height="50"></td>
+        <td align="center"><img src="https://cdn.discordapp.com/attachments/1117726087196180491/1117726231765471322/Raspberry.png?ex=6601302c&is=65eebb2c&hm=7eaf867cce9265c3fea80db2e315a63d3d2d30acb91a4f1bab283ba05411026c&" alt="Raspberry Pi" width="50" height="50"></td>
       </tr>
       <tr>
-        <td align="center"><img src="https://cdn.discordapp.com/attachments/1117726087196180491/1117726223175528540/HTML.png" alt="HTML" width="50" height="50"></td>
-        <td align="center"><img src="https://cdn.discordapp.com/attachments/1117726087196180491/1117726222609293363/C.png" alt="C" width="50" height="50"></td>
+        <td align="center"><img src="https://cdn.discordapp.com/attachments/1117726087196180491/1117726223175528540/HTML.png?ex=66013029&is=65eebb29&hm=63ea2cf4ba04c58a373d7286867608c4a0658bfbebb325918ed991533720ac90&" alt="HTML" width="50" height="50"></td>
+        <td align="center"><img src="https://cdn.discordapp.com/attachments/1117726087196180491/1117726222609293363/C.png?ex=66013029&is=65eebb29&hm=e52e5858a4eeda47ede0a4682b2a6dc2c3e636362b135d802bc5256a030d3ac4&" alt="C" width="50" height="50"></td>
         <td></td>
-        <td align="center"><img src="https://cdn.discordapp.com/attachments/1117726087196180491/1117726224194740244/Photoshop.png" alt="Photoshop" width="50" height="50"></td>
+        <td align="center"><img src="https://cdn.discordapp.com/attachments/1117726087196180491/1117726224194740244/Photoshop.png?ex=6601302a&is=65eebb2a&hm=ee8c7b0c167a2a9197dc9ae79fe46fae592ca0ecd2660111eb9ed5173825e76c&" alt="Photoshop" width="50" height="50"></td>
         <td></td>
       </tr>
     </tbody>
