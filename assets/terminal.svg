@@ -1,44 +1,54 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="448" viewBox="0 0 1000 448">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="512" viewBox="0 0 1000 512">
   <defs>
         <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#000" opacity="0.35"/></pattern>
     <style>
       text { font-family: 'Fira Code', Consolas, 'Courier New', monospace; font-size: 17px; white-space: pre; }
       .cur { animation: b 1s steps(1) infinite; }
+      .live { animation: lv 2s ease-in-out infinite; }
+      @keyframes lv { 50% { opacity: .55; } }
       @keyframes b { 50% { opacity: 0; } }
-      @keyframes show { from { opacity: 0; } to { opacity: 1; } }
-      @keyframes type { from { transform: scaleX(1); } to { transform: scaleX(0); } }
       .cover { transform-box: fill-box; transform-origin: 100% 50%; }
-      .k0{animation:show .01s 0.30s both} .r0{animation:type 0.30s steps(6) 0.60s both}
-      .k1{animation:show .01s 1.25s both}
-      .k2{animation:show .01s 1.40s both} .r2{animation:type 0.90s steps(18) 1.70s both}
-      .k3{animation:show .01s 2.95s both}
-      .k4{animation:show .01s 3.10s both} .r4{animation:type 0.80s steps(16) 3.40s both}
-      .k5{animation:show .01s 4.55s both}
-      .k6{animation:show .01s 4.70s both} .r6{animation:type 0.70s steps(14) 5.00s both}
-      .k7{animation:show .01s 6.05s both}
-      .k8{animation:show .01s 6.20s both} .r8{animation:type 0.85s steps(17) 6.50s both}
-      .k9{animation:show .01s 7.70s both}
-      .kend{animation:show .01s 8.15s both}
+      @keyframes a_k0 { 0%, 1.857% { opacity: 0; } 1.863%, 98% { opacity: 1; } 100% { opacity: 0; } } .k0 { animation: a_k0 16.10s step-end -10.60s infinite; }
+      @keyframes a_r0 { 0% { transform: scaleX(1); } 4.037% { transform: scaleX(0.833); } 4.348% { transform: scaleX(0.667); } 4.658% { transform: scaleX(0.500); } 4.969% { transform: scaleX(0.333); } 5.280% { transform: scaleX(0.167); } 5.590% { transform: scaleX(0.000); } 98% { transform: scaleX(0); } 100% { transform: scaleX(1); } } .r0 { animation: a_r0 16.10s step-end -10.60s infinite; }
+      @keyframes a_k1 { 0%, 7.758% { opacity: 0; } 7.764%, 98% { opacity: 1; } 100% { opacity: 0; } } .k1 { animation: a_k1 16.10s step-end -10.60s infinite; }
+      @keyframes a_k2 { 0%, 8.689% { opacity: 0; } 8.696%, 98% { opacity: 1; } 100% { opacity: 0; } } .k2 { animation: a_k2 16.10s step-end -10.60s infinite; }
+      @keyframes a_r2 { 0% { transform: scaleX(1); } 10.870% { transform: scaleX(0.944); } 11.180% { transform: scaleX(0.889); } 11.491% { transform: scaleX(0.833); } 11.801% { transform: scaleX(0.778); } 12.112% { transform: scaleX(0.722); } 12.422% { transform: scaleX(0.667); } 12.733% { transform: scaleX(0.611); } 13.043% { transform: scaleX(0.556); } 13.354% { transform: scaleX(0.500); } 13.665% { transform: scaleX(0.444); } 13.975% { transform: scaleX(0.389); } 14.286% { transform: scaleX(0.333); } 14.596% { transform: scaleX(0.278); } 14.907% { transform: scaleX(0.222); } 15.217% { transform: scaleX(0.167); } 15.528% { transform: scaleX(0.111); } 15.839% { transform: scaleX(0.056); } 16.149% { transform: scaleX(0.000); } 98% { transform: scaleX(0); } 100% { transform: scaleX(1); } } .r2 { animation: a_r2 16.10s step-end -10.60s infinite; }
+      @keyframes a_k3 { 0%, 18.317% { opacity: 0; } 18.323%, 98% { opacity: 1; } 100% { opacity: 0; } } .k3 { animation: a_k3 16.10s step-end -10.60s infinite; }
+      @keyframes a_k4 { 0%, 19.248% { opacity: 0; } 19.255%, 98% { opacity: 1; } 100% { opacity: 0; } } .k4 { animation: a_k4 16.10s step-end -10.60s infinite; }
+      @keyframes a_r4 { 0% { transform: scaleX(1); } 21.429% { transform: scaleX(0.957); } 21.739% { transform: scaleX(0.913); } 22.050% { transform: scaleX(0.870); } 22.360% { transform: scaleX(0.826); } 22.671% { transform: scaleX(0.783); } 22.981% { transform: scaleX(0.739); } 23.292% { transform: scaleX(0.696); } 23.602% { transform: scaleX(0.652); } 23.913% { transform: scaleX(0.609); } 24.224% { transform: scaleX(0.565); } 24.534% { transform: scaleX(0.522); } 24.845% { transform: scaleX(0.478); } 25.155% { transform: scaleX(0.435); } 25.466% { transform: scaleX(0.391); } 25.776% { transform: scaleX(0.348); } 26.087% { transform: scaleX(0.304); } 26.398% { transform: scaleX(0.261); } 26.708% { transform: scaleX(0.217); } 27.019% { transform: scaleX(0.174); } 27.329% { transform: scaleX(0.130); } 27.640% { transform: scaleX(0.087); } 27.950% { transform: scaleX(0.043); } 28.261% { transform: scaleX(0.000); } 98% { transform: scaleX(0); } 100% { transform: scaleX(1); } } .r4 { animation: a_r4 16.10s step-end -10.60s infinite; }
+      @keyframes a_k5 { 0%, 30.429% { opacity: 0; } 30.435%, 98% { opacity: 1; } 100% { opacity: 0; } } .k5 { animation: a_k5 16.10s step-end -10.60s infinite; }
+      @keyframes a_k6 { 0%, 31.360% { opacity: 0; } 31.366%, 98% { opacity: 1; } 100% { opacity: 0; } } .k6 { animation: a_k6 16.10s step-end -10.60s infinite; }
+      @keyframes a_r6 { 0% { transform: scaleX(1); } 33.540% { transform: scaleX(0.938); } 33.851% { transform: scaleX(0.875); } 34.161% { transform: scaleX(0.812); } 34.472% { transform: scaleX(0.750); } 34.783% { transform: scaleX(0.688); } 35.093% { transform: scaleX(0.625); } 35.404% { transform: scaleX(0.562); } 35.714% { transform: scaleX(0.500); } 36.025% { transform: scaleX(0.438); } 36.335% { transform: scaleX(0.375); } 36.646% { transform: scaleX(0.312); } 36.957% { transform: scaleX(0.250); } 37.267% { transform: scaleX(0.188); } 37.578% { transform: scaleX(0.125); } 37.888% { transform: scaleX(0.062); } 38.199% { transform: scaleX(0.000); } 98% { transform: scaleX(0); } 100% { transform: scaleX(1); } } .r6 { animation: a_r6 16.10s step-end -10.60s infinite; }
+      @keyframes a_k7 { 0%, 40.366% { opacity: 0; } 40.373%, 98% { opacity: 1; } 100% { opacity: 0; } } .k7 { animation: a_k7 16.10s step-end -10.60s infinite; }
+      @keyframes a_k8 { 0%, 41.298% { opacity: 0; } 41.304%, 98% { opacity: 1; } 100% { opacity: 0; } } .k8 { animation: a_k8 16.10s step-end -10.60s infinite; }
+      @keyframes a_r8 { 0% { transform: scaleX(1); } 43.478% { transform: scaleX(0.929); } 43.789% { transform: scaleX(0.857); } 44.099% { transform: scaleX(0.786); } 44.410% { transform: scaleX(0.714); } 44.720% { transform: scaleX(0.643); } 45.031% { transform: scaleX(0.571); } 45.342% { transform: scaleX(0.500); } 45.652% { transform: scaleX(0.429); } 45.963% { transform: scaleX(0.357); } 46.273% { transform: scaleX(0.286); } 46.584% { transform: scaleX(0.214); } 46.894% { transform: scaleX(0.143); } 47.205% { transform: scaleX(0.071); } 47.516% { transform: scaleX(0.000); } 98% { transform: scaleX(0); } 100% { transform: scaleX(1); } } .r8 { animation: a_r8 16.10s step-end -10.60s infinite; }
+      @keyframes a_k9 { 0%, 49.683% { opacity: 0; } 49.689%, 98% { opacity: 1; } 100% { opacity: 0; } } .k9 { animation: a_k9 16.10s step-end -10.60s infinite; }
+      @keyframes a_k10 { 0%, 50.615% { opacity: 0; } 50.621%, 98% { opacity: 1; } 100% { opacity: 0; } } .k10 { animation: a_k10 16.10s step-end -10.60s infinite; }
+      @keyframes a_r10 { 0% { transform: scaleX(1); } 52.795% { transform: scaleX(0.941); } 53.106% { transform: scaleX(0.882); } 53.416% { transform: scaleX(0.824); } 53.727% { transform: scaleX(0.765); } 54.037% { transform: scaleX(0.706); } 54.348% { transform: scaleX(0.647); } 54.658% { transform: scaleX(0.588); } 54.969% { transform: scaleX(0.529); } 55.280% { transform: scaleX(0.471); } 55.590% { transform: scaleX(0.412); } 55.901% { transform: scaleX(0.353); } 56.211% { transform: scaleX(0.294); } 56.522% { transform: scaleX(0.235); } 56.832% { transform: scaleX(0.176); } 57.143% { transform: scaleX(0.118); } 57.453% { transform: scaleX(0.059); } 57.764% { transform: scaleX(0.000); } 98% { transform: scaleX(0); } 100% { transform: scaleX(1); } } .r10 { animation: a_r10 16.10s step-end -10.60s infinite; }
+      @keyframes a_k11 { 0%, 59.932% { opacity: 0; } 59.938%, 98% { opacity: 1; } 100% { opacity: 0; } } .k11 { animation: a_k11 16.10s step-end -10.60s infinite; }
+      @keyframes a_kend { 0%, 62.727% { opacity: 0; } 62.733%, 98% { opacity: 1; } 100% { opacity: 0; } } .kend { animation: a_kend 16.10s step-end -10.60s infinite; }
     </style>
   </defs>
-  <rect width="1000" height="448" rx="14" fill="#0A0F1E"/>
+  <rect width="1000" height="512" rx="14" fill="#0A0F1E"/>
   <rect width="1000" height="44" rx="14" fill="#111A33"/>
   <rect y="30" width="1000" height="14" fill="#111A33"/>
-  <circle cx="26" cy="22" r="7" fill="#FF5F56"/><circle cx="50" cy="22" r="7" fill="#FFBD2E"/><circle cx="74" cy="22" r="7" fill="#27C93F"/>
+  <circle cx="26" cy="22" r="7" fill="#FF5F56"/><circle cx="50" cy="22" r="7" fill="#FFBD2E"/><circle class="live" cx="74" cy="22" r="7" fill="#27C93F"/>
   <text x="500" y="28" text-anchor="middle" fill="#6F86A6" style="font-size:14px">nicolas@nicolas-os: ~/perfil</text>
   <g xml:space="preserve">
     <g class="k0"><text x="36" y="92" fill="#7CFFB2">$</text><text x="60" y="92" fill="#FFFFFF">whoami</text><rect class="r0 cover" x="58" y="70" width="75" height="30" fill="#0A0F1E"/></g>
     <text class="k1" x="36" y="124" fill="#9FB3C8"><tspan fill="#FFFFFF">nicolas_pinilla</tspan> · Ingeniero de Sistemas · <tspan fill="#FFD60A">Colombia</tspan></text>
     <g class="k2"><text x="36" y="156" fill="#7CFFB2">$</text><text x="60" y="156" fill="#FFFFFF">cat rol_actual.txt</text><rect class="r2 cover" x="58" y="134" width="198" height="30" fill="#0A0F1E"/></g>
     <text class="k3" x="36" y="188" fill="#9FB3C8">Especialista Preventa K12 <tspan fill="#FF2E88">@</tspan> <tspan fill="#FFFFFF">Electroequipos Colombia</tspan></text>
-    <g class="k4"><text x="36" y="220" fill="#7CFFB2">$</text><text x="60" y="220" fill="#FFFFFF">ls ./experiencia</text><rect class="r4 cover" x="58" y="198" width="177" height="30" fill="#0A0F1E"/></g>
-    <text class="k5" x="36" y="252" fill="#9FB3C8"><tspan fill="#00E5FF">electroequipos_colombia/</tspan>   <tspan fill="#00E5FF">robotica_colombia_sas/</tspan>   <tspan fill="#00E5FF">grupo_tknova_sas/</tspan></text>
-    <g class="k6"><text x="36" y="284" fill="#7CFFB2">$</text><text x="60" y="284" fill="#FFFFFF">./mision --run</text><rect class="r6 cover" x="58" y="262" width="157" height="30" fill="#0A0F1E"/></g>
-    <text class="k7" x="36" y="316" fill="#9FB3C8">&gt;&gt; Transformar la educación a través de la tecnología ........ <tspan fill="#7CFFB2">[ OK ]</tspan></text>
-    <g class="k8"><text x="36" y="348" fill="#7CFFB2">$</text><text x="60" y="348" fill="#FFFFFF">cat pasiones.json</text><rect class="r8 cover" x="58" y="326" width="187" height="30" fill="#0A0F1E"/></g>
-    <text class="k9" x="36" y="380" fill="#9FB3C8">[<tspan fill="#FFD60A">"Robótica"</tspan>, <tspan fill="#FFD60A">"Educación"</tspan>, <tspan fill="#FFD60A">"Innovación"</tspan>, <tspan fill="#FFD60A">"Videojuegos"</tspan>]</text>
-    <g class="kend"><text x="36" y="412" fill="#7CFFB2">$</text><rect class="cur" x="60" y="395" width="11" height="21" fill="#00E5FF"/></g>
+    <g class="k4"><text x="36" y="220" fill="#7CFFB2">$</text><text x="60" y="220" fill="#FFFFFF">cat certificaciones.txt</text><rect class="r4 cover" x="58" y="198" width="249" height="30" fill="#0A0F1E"/></g>
+    <text class="k5" x="36" y="252" fill="#9FB3C8"><tspan fill="#FFD60A">LEGO Education Teacher Trainer</tspan></text>
+    <g class="k6"><text x="36" y="284" fill="#7CFFB2">$</text><text x="60" y="284" fill="#FFFFFF">ls ./experiencia</text><rect class="r6 cover" x="58" y="262" width="177" height="30" fill="#0A0F1E"/></g>
+    <text class="k7" x="36" y="316" fill="#9FB3C8"><tspan fill="#00E5FF">electroequipos_colombia/</tspan>   <tspan fill="#00E5FF">robotica_colombia_sas/</tspan>   <tspan fill="#00E5FF">grupo_tknova_sas/</tspan></text>
+    <g class="k8"><text x="36" y="348" fill="#7CFFB2">$</text><text x="60" y="348" fill="#FFFFFF">./mision --run</text><rect class="r8 cover" x="58" y="326" width="157" height="30" fill="#0A0F1E"/></g>
+    <text class="k9" x="36" y="380" fill="#9FB3C8">&gt;&gt; Transformar la educación a través de la tecnología ........ <tspan fill="#7CFFB2">[ OK ]</tspan></text>
+    <g class="k10"><text x="36" y="412" fill="#7CFFB2">$</text><text x="60" y="412" fill="#FFFFFF">cat pasiones.json</text><rect class="r10 cover" x="58" y="390" width="187" height="30" fill="#0A0F1E"/></g>
+    <text class="k11" x="36" y="444" fill="#9FB3C8">[<tspan fill="#FFD60A">"Robótica"</tspan>, <tspan fill="#FFD60A">"Educación"</tspan>, <tspan fill="#FFD60A">"Innovación"</tspan>, <tspan fill="#FFD60A">"Videojuegos"</tspan>]</text>
+    <g class="kend"><text x="36" y="476" fill="#7CFFB2">$</text><rect class="cur" x="60" y="459" width="11" height="21" fill="#00E5FF"/></g>
   </g>
-  <rect width="1000" height="448" rx="14" fill="url(#scan)" opacity="0.45"/>
-  <rect x="1.5" y="1.5" width="997" height="445" rx="13" fill="none" stroke="#1F3A66" stroke-width="3"/>
+  <rect width="1000" height="512" rx="14" fill="url(#scan)" opacity="0.45"/>
+  <rect x="1.5" y="1.5" width="997" height="509" rx="13" fill="none" stroke="#1F3A66" stroke-width="3"/>
 </svg>

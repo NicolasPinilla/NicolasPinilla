@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Nicolás Pinilla · Especialista Preventa K12 · Ingeniero de Sistemas"/>
+<img src="./assets/hero.svg" width="100%" alt="Nicolás Pinilla · Especialista Preventa K12 · Ingeniero de Sistemas · LEGO Education Teacher Trainer"/>
 
 <br>
 
@@ -11,7 +11,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=%3E+Especialista+Preventa+K12+%F0%9F%92%BC;%3E+Ingeniero+de+Sistemas+%F0%9F%92%BB;%3E+Rob%C3%B3tica+educativa+%2B+STEAM+%F0%9F%A4%96;%3E+Hackeando+la+educaci%C3%B3n+con+tecnolog%C3%ADa+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=%3E+Especialista+Preventa+K12+%F0%9F%92%BC;%3E+LEGO+Education+Teacher+Trainer+%F0%9F%A7%B1;%3E+Ingeniero+de+Sistemas+%F0%9F%92%BB;%3E+Rob%C3%B3tica+educativa+%2B+STEAM+%F0%9F%A4%96;%3E+Transformando+la+educaci%C3%B3n+con+tecnolog%C3%ADa+%F0%9F%9A%80" alt="Typing SVG"/>
 
 <img src="./assets/senal.svg" width="100%" alt=""/>
 
@@ -25,7 +25,7 @@
 
 <br>
 
-## 🧠 `02` &nbsp;Módulos cargados
+## 🧠 `02` &nbsp;Competencias
 
 <div align="center">
 
@@ -34,6 +34,7 @@
 | Análisis de necesidades K12 | Implementación Arduino | Desarrollo Web Full Stack | UX/UI Design |
 | Diseño de soluciones educativas | Programación Raspberry Pi | Python & JavaScript | Adobe Creative Suite |
 | Presentaciones técnicas | Proyectos STEAM | Bases de datos | Diseño de interfaces |
+| Acompañamiento a instituciones | Formación docente LEGO Education | Scripting y automatización | Prototipado |
 
 </div>
 
@@ -74,15 +75,20 @@
 
 <br>
 
-## 🎓 `05` &nbsp;Educación
+## 🎓 `05` &nbsp;Formación y certificaciones
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Fundación%20Universitaria%20del%20Área%20Andina-Ingeniería%20de%20Sistemas-FFD60A?style=for-the-badge&labelColor=111A33" alt="Fundación Universitaria del Área Andina - Ingeniería de Sistemas">
+
+<img src="https://img.shields.io/badge/🧱%20LEGO%20Education-Teacher%20Trainer-FFD60A?style=for-the-badge&labelColor=111A33" alt="LEGO Education Teacher Trainer">
+<img src="https://img.shields.io/badge/Fundación%20Universitaria%20del%20Área%20Andina-Ingeniería%20de%20Sistemas-00E5FF?style=for-the-badge&labelColor=111A33" alt="Fundación Universitaria del Área Andina - Ingeniería de Sistemas">
+
+<sub>Como <b>LEGO Education Teacher Trainer</b> capacito a docentes para llevar la robótica y el aprendizaje STEAM al aula con metodologías prácticas.</sub>
+
 </div>
 
 <br>
 
-## 🎮 `06` &nbsp;Fuera de horario
+## 🎮 `06` &nbsp;Intereses
 
 <div align="center">
 
@@ -136,6 +142,6 @@
 
 *"En un mundo en constante evolución, la educación y la tecnología se entrelazan como el caos y el orden, guiándonos hacia un futuro donde las posibilidades son infinitas."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1E,50:2E86AB,100:00E5FF&height=120&section=footer&text=NICOLAS.OS%20%E2%80%A2%20END%20OF%20TRANSMISSION&fontSize=22&fontColor=ffffff&fontAlignY=72" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1E,50:2E86AB,100:00E5FF&height=120&section=footer&text=Gracias%20por%20tu%20visita&fontSize=24&fontColor=ffffff&fontAlignY=72" width="100%" alt=""/>
 
 </div>
