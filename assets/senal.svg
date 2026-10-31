@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="34" viewBox="0 0 1000 34">
+  <defs>
+    <path id="w" d="M0 17 H80 L90 5 L100 29 L110 17 H200 L206 10 L212 24 L218 17 H330 L340 3 L350 31 L360 17 H500"/>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset=".2" stop-color="#fff"/>
+      <stop offset=".8" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="m"><rect width="1000" height="34" fill="url(#fade)"/></mask>
+    <style>
+      .move { animation: mv 3s linear infinite; }
+      @keyframes mv { from { transform: translateX(0); } to { transform: translateX(-500px); } }
+    </style>
+  </defs>
+  <g mask="url(#m)">
+    <g class="move" fill="none" stroke="#00E5FF" stroke-width="2.5" stroke-linejoin="round">
+      <use href="#w"/><use href="#w" x="500"/><use href="#w" x="1000"/>
+    </g>
+  </g>
+</svg>

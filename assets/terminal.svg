@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="448" viewBox="0 0 1000 448">
+  <defs>
+        <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#000" opacity="0.35"/></pattern>
+    <style>
+      text { font-family: 'Fira Code', Consolas, 'Courier New', monospace; font-size: 17px; white-space: pre; }
+      .cur { animation: b 1s steps(1) infinite; }
+      @keyframes b { 50% { opacity: 0; } }
+      @keyframes show { from { opacity: 0; } to { opacity: 1; } }
+      @keyframes type { from { transform: scaleX(1); } to { transform: scaleX(0); } }
+      .cover { transform-box: fill-box; transform-origin: 100% 50%; }
+      .k0{animation:show .01s 0.30s both} .r0{animation:type 0.30s steps(6) 0.60s both}
+      .k1{animation:show .01s 1.25s both}
+      .k2{animation:show .01s 1.40s both} .r2{animation:type 0.90s steps(18) 1.70s both}
+      .k3{animation:show .01s 2.95s both}
+      .k4{animation:show .01s 3.10s both} .r4{animation:type 0.80s steps(16) 3.40s both}
+      .k5{animation:show .01s 4.55s both}
+      .k6{animation:show .01s 4.70s both} .r6{animation:type 0.70s steps(14) 5.00s both}
+      .k7{animation:show .01s 6.05s both}
+      .k8{animation:show .01s 6.20s both} .r8{animation:type 0.85s steps(17) 6.50s both}
+      .k9{animation:show .01s 7.70s both}
+      .kend{animation:show .01s 8.15s both}
+    </style>
+  </defs>
+  <rect width="1000" height="448" rx="14" fill="#0A0F1E"/>
+  <rect width="1000" height="44" rx="14" fill="#111A33"/>
+  <rect y="30" width="1000" height="14" fill="#111A33"/>
+  <circle cx="26" cy="22" r="7" fill="#FF5F56"/><circle cx="50" cy="22" r="7" fill="#FFBD2E"/><circle cx="74" cy="22" r="7" fill="#27C93F"/>
+  <text x="500" y="28" text-anchor="middle" fill="#6F86A6" style="font-size:14px">nicolas@nicolas-os: ~/perfil</text>
+  <g xml:space="preserve">
+    <g class="k0"><text x="36" y="92" fill="#7CFFB2">$</text><text x="60" y="92" fill="#FFFFFF">whoami</text><rect class="r0 cover" x="58" y="70" width="75" height="30" fill="#0A0F1E"/></g>
+    <text class="k1" x="36" y="124" fill="#9FB3C8"><tspan fill="#FFFFFF">nicolas_pinilla</tspan> · Ingeniero de Sistemas · <tspan fill="#FFD60A">Colombia</tspan></text>
+    <g class="k2"><text x="36" y="156" fill="#7CFFB2">$</text><text x="60" y="156" fill="#FFFFFF">cat rol_actual.txt</text><rect class="r2 cover" x="58" y="134" width="198" height="30" fill="#0A0F1E"/></g>
+    <text class="k3" x="36" y="188" fill="#9FB3C8">Especialista Preventa K12 <tspan fill="#FF2E88">@</tspan> <tspan fill="#FFFFFF">Electroequipos Colombia</tspan></text>
+    <g class="k4"><text x="36" y="220" fill="#7CFFB2">$</text><text x="60" y="220" fill="#FFFFFF">ls ./experiencia</text><rect class="r4 cover" x="58" y="198" width="177" height="30" fill="#0A0F1E"/></g>
+    <text class="k5" x="36" y="252" fill="#9FB3C8"><tspan fill="#00E5FF">electroequipos_colombia/</tspan>   <tspan fill="#00E5FF">robotica_colombia_sas/</tspan>   <tspan fill="#00E5FF">grupo_tknova_sas/</tspan></text>
+    <g class="k6"><text x="36" y="284" fill="#7CFFB2">$</text><text x="60" y="284" fill="#FFFFFF">./mision --run</text><rect class="r6 cover" x="58" y="262" width="157" height="30" fill="#0A0F1E"/></g>
+    <text class="k7" x="36" y="316" fill="#9FB3C8">&gt;&gt; Transformar la educación a través de la tecnología ........ <tspan fill="#7CFFB2">[ OK ]</tspan></text>
+    <g class="k8"><text x="36" y="348" fill="#7CFFB2">$</text><text x="60" y="348" fill="#FFFFFF">cat pasiones.json</text><rect class="r8 cover" x="58" y="326" width="187" height="30" fill="#0A0F1E"/></g>
+    <text class="k9" x="36" y="380" fill="#9FB3C8">[<tspan fill="#FFD60A">"Robótica"</tspan>, <tspan fill="#FFD60A">"Educación"</tspan>, <tspan fill="#FFD60A">"Innovación"</tspan>, <tspan fill="#FFD60A">"Videojuegos"</tspan>]</text>
+    <g class="kend"><text x="36" y="412" fill="#7CFFB2">$</text><rect class="cur" x="60" y="395" width="11" height="21" fill="#00E5FF"/></g>
+  </g>
+  <rect width="1000" height="448" rx="14" fill="url(#scan)" opacity="0.45"/>
+  <rect x="1.5" y="1.5" width="997" height="445" rx="13" fill="none" stroke="#1F3A66" stroke-width="3"/>
+</svg>
